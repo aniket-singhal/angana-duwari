@@ -23,7 +23,7 @@ export default function Navbar() {
               अंगना दुआरी
             </h1>
             <p className="text-[10px] text-emerald-300 uppercase tracking-widest font-sans">
-              Knowledge Portal
+              हमर सुघ्घर छत्तीसगढ़
             </p>
           </div>
         </Link>
