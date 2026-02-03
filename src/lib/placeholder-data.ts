@@ -5,7 +5,7 @@ export const newsData = [
     id: "intro-1",
     title: "अंगना दुआरी: छत्तीसगढ़ की आत्मा से संवाद",
     slug: "angana-duwari-soul-of-chhattisgarh", // This will be the URL
-    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsw7vs7gt942t7A1HPcoueJcp5tsBaSuuLjw&s", // Optional: Image URL for the article
+    imageUrl: "https://res.cloudinary.com/deomwusqd/image/upload/v1770134339/WhatsApp_Image_2026-02-03_at_21.28.29_mz25vt.jpg", // Optional: Image URL for the article
     content: `छत्तीसगढ़ केवल एक राज्य नहीं, बल्कि स्मृतियों, श्रम और संवेदना से बुना हुआ जीवन-लोक है। यहाँ की पहचान उसके जंगलों, नदियों और पहाड़ियों के साथ-साथ उन आवाज़ों में बसती है, जो पीढ़ियों से गीत, कथा और लोकभाषा के रूप में बहती आई हैं। यही आवाज़ें छत्तीसगढ़ की आत्मा हैं।
 
 अंगना दुआरी इसी आत्मा से संवाद का एक विनम्र प्रयास है।
